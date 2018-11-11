@@ -4,6 +4,6 @@
  * @param {第二个数} b
  */
 function addNum(a,b){
-  return a+b;
+  return a+b
 }
-module.exports=addNum;
+module.exports = addNum
